@@ -1,0 +1,3 @@
+repository "GBFM@Nuclear_Beavers@cloud"
+  path "/"
+    smartbranch "/main/Core Mechanics"
